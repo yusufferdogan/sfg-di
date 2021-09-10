@@ -1,0 +1,8 @@
+spring:
+  profiles:
+    active: dog,EN
+
+guru:
+  username: Yml_QA_UserName
+  password: Yml_QA_PassWord
+  jdbcurl: Yml_QA_Url
